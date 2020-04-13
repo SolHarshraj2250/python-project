@@ -10,7 +10,7 @@ from PyQt5.QtGui import QImage, QPixmap
 from PyQt5.QtCore import  QThread, pyqtSignal
 from PyQt5 import QtCore, QtGui, QtWidgets
 #For Detecting the Objects:-
-from config import *
+from Config import *
 #
 from PIL import Image
 import copy
