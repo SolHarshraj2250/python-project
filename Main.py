@@ -700,7 +700,7 @@ class App(QMainWindow,Ui_mainWindow):
         self.counter_thread_start_flag = 0
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         data_config = "config/coco.data"
-        weights_path = "weights/yolov3.weights"
+        weights_path = "Algo/yolov3.weights"
         model_def = "config/yolov3.cfg"
         data_config = parse_data_config(data_config)
         self.yolo_class_names = load_classes(data_config["names"])
