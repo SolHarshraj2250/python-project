@@ -25,7 +25,7 @@ Also We have taken the help of the yolov3 and sort algorithm for object detectio
 2. This yolov3 file is big. So i have posted link overhere So before moving further step you need to download this in your pc and you have to paste it into "Algo" Folder which i have Submitted Empty for that.
 The Link is:-[link_(Dataset)](https://pjreddie.com/media/files/yolov3.weights)
 3. After that please run this project's main file through "Anaconda Command Prompt" by giving path of that specific file. And then write:- python Main.py
-4. After that GUI will open and First You need to Select the video From "input-Output" File (Which i have puted overhere) and then Select the appropriate Area by clicking double click on mouse and then Start the video then You will be able to see the Proper Live Running of Project.
+4. After that GUI will open and First You need to Select the video(.mp4 format) From "input-Output" File (Which i have puted overhere) and then Select the appropriate Area by clicking double click on mouse and then Start the video then You will be able to see the Proper Live Running of Project.
 5. After that Final Result will be stored in final.txt in Final directory with Proper Format.
 Like the Format is:- [Videoname, Count, Objectname] for each Vehicle. For Example:- Input1 1 bicycle etc.
 ----------------------------------------------------------------------------------------------------------------------------------------
