@@ -11,8 +11,9 @@ from PyQt5.QtCore import  QThread, pyqtSignal
 from PyQt5 import QtCore, QtGui, QtWidgets
 #For Detecting the Objects:-
 from Config import *
-#
+#For Image Manipulation after Saving them in different Format:-
 from PIL import Image
+#To Work Some Operation on DeepCopy of Something:-
 import copy
 #For Importing Other ".py" Files of My Project:-
 from Detection.detect2 import *
@@ -845,4 +846,4 @@ if __name__ == '__main__':
     myWin = App()
     myWin.show()
     sys.exit(app.exec_())
-#================================================================
+#======================================================================================================================
