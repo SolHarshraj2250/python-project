@@ -18,7 +18,7 @@ Also We have taken the help of the yolov3 and sort algorithm for object detectio
 - Windows/Linux
 - Anaconda3 Navigator
 
-## Please Follow these Steps after downloading & extracking zip folder For Runnning this Project:-
+## Please Follow these Steps after downloading & extrackting zip folder For Runnning this Project:-
 1. Install Pytorch and PyQt5 in your Anaconda Navigator From Anaconda Prompt (Not by Usual Command Prompt) through Below Commands:-
 - conda install -c pytorch pytorch (For Pytorch)
 - conda install -c anaconda pyqt or conda install -c dsdale24 pyqt5
