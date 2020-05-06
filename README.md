@@ -14,6 +14,8 @@ Also We have taken the help of the yolov3 and sort algorithm for object detectio
 ----------------------------------------------------------------------------------------------------------------------------------------
 # 2.) Project Running:-
 ----------------------------------------------------------------------------------------------------------------------------------------
+## Youtube Video Link With Explanation is Posted Below:- 
+The Link is:-[Youtube_Video)](https://youtu.be/QuD4MAuUIgE)
 ## Requirements:-
 - Windows/Linux
 - Anaconda3 Navigator
@@ -35,7 +37,6 @@ Like the Format is:- [Videoname, Count, Objectname] for each Vehicle. For Exampl
 
 ![Output2](Input-Output/Final2.gif)
 
-Youtube link:https://www.youtube.com/watch?v=QuD4MAuUIgE&feature=youtu.be
 ----------------------------------------------------------------------------------------------------------------------------------------
 # 4.) Benefits of this Project to the Real World:-
 ----------------------------------------------------------------------------------------------------------------------------------------
